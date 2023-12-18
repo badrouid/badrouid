@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @badrouid
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Front-end Development
